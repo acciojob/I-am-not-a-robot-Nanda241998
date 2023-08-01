@@ -30,11 +30,16 @@ img {
 .selected {
   border: 5px solid rgb(0, 195, 255);
 }
-
+.text-center{
+	text-aliegn:center;
+}
 p {
   text-align: center;
 }
 
 button {
   margin: 20px;
+}
+.d-none{
+	display:none
 }
